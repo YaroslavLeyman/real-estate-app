@@ -29,7 +29,7 @@ function SearchBar() {
         ))}
       </div>
       <form>
-        <input type="text" name="location" placeholder="City Location" />
+        <input type="text" name="location" placeholder="Only London" />
         <input
           type="number"
           name="minPrice"
